@@ -47,8 +47,54 @@ TODO
 ## ROI
 TODO
 
-### Plugins
-TDO
+## Plugins
+* [fmri plugins](#fmri-plugins)
+  * [Correlation mapping](#correlation-mapping)
+  * [Fmri analysis](#fmri-analysis)
+  * [Motion estimate](#motion-estimate)
+  * [Network analysis](#network-analysis)
+  * [Old fmri analysis](#old-fmri-analysis)
+  * [Resting state fc](#resting-state-fc)
+  * [Roi averages](#roi-averages)
+* [map plugins](#map-plugins)
+  * [T1 3 parameter fit](#t1-3-parameter-fit)
+  * [T1 inversion recovery](#t1-inversion-recovery)
+  * [T1 rho](#t1-rho)
+  * [T1 saturation recovery](#t1-saturation-recovery)
+  * [T2](#t2)
+  * [T2 rho](#t2-rho)
+* [Brain masking](#brain-masking)
+* [Calc asl cbf](#calc-asl-cbf)
+* [Copy data to workspace](#copy-data-to-workspace)
+* [Fat analysis](#fat-analysis)
+* [Histograms](#histograms)
+* [Open in imtool](#open-in-imtool)
+* [Plot profile](#plot-profile)
+* [Save overlay as roi](#save-overlay-as-roi)
+* [Take snapshop](#take-snapshop)
+* [View kspace](#view-kspace)
+* [Write difference image](#write-difference-image)
+
+### Brain masking
+TODO
+
+### Copy data to workspace
+TODO
+
+### Histograms
+TODO
+
+### Open in imtool
+TODO
+
+### Plot profile
+TODO
+
+### Save roi as mask
+TODO
+
+### Take snapshot
+TODO
 
 ## Help
 TODO
