@@ -75,25 +75,25 @@ TODO
 * [View kspace](#view-kspace)
 * [Write difference image](#write-difference-image)
 
-### Brain masking
+#### Brain masking
 TODO
 
-### Copy data to workspace
+#### Copy data to workspace
 TODO
 
-### Histograms
+#### Histograms
 TODO
 
-### Open in imtool
+#### Open in imtool
 TODO
 
-### Plot profile
+#### Plot profile
 TODO
 
-### Save roi as mask
+#### Save roi as mask
 TODO
 
-### Take snapshot
+#### Take snapshot
 TODO
 
 ## Help
