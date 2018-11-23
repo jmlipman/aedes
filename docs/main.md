@@ -1,46 +1,50 @@
 # Aedes Full Documentation (Under construction)
 
-[File](#file)
+Menu bar
+1. [File](#file)
+2. [Edit](#edit)
+3. [View](#view)
+4. [Tools](#tools)
+5. [Overlay](#overlay)
+6. [ROI](#roi)
+7. [Plugins](#plugins)
+8. [Help](#help)
 
-[Edit](#edit)
-
-[View](#view)
-
-[Tools](#tools)
-
-[Overlay](#overlay)
-
-[ROI](#roi)
-
-[Plugins](#plugins)
-
-[Help](#help)
+Toolbar
+1. TODO
+2. TODO
+3. TODO...
 
 
 ## File
 ### New window
 It opens a new Aedes window.
 
-### Open File
+#### Open File
 It opens one of the several supported files in the current window. Supported file types: Varian or Bruker FID-files (**fid**), Bruker reconstructed files (**2dseq**), NIfTI and Analyze 7.5 files (**.nii**, **.nii.gz**, **.hdr**), S.M.I.S. Image files (**.sur**), MRI files (**.mri**), DICON image files (**.dcm**), SPECT/CT Header files (**.hdr**), Reconstruction parameter files (**.xxm**), Matlab MAT files (**.mat**), Aedes ROI files (**.roi**), Varian FDF files (**.fdf**), SWIFT reconstruction files (**.sgl**), **.t1r**, **.s1r**, **.t2r**, **.s2r**, **.t1**, **.t2**, **.s1**, **.s2**, **.df**, **.sf**, **.r2**, **.b1**.
 
-### Open Multiple Files
+#### Open Multiple Files
 ???
 
-### Open Recent
+#### Open Recent
 It allows you to open one of the files opened recently.
 
-### Save Image Data as
-[Image](aedes_saveimage.png)
+#### Save Image Data as
+It saves the current 3D image as a NIfTI file (**.nii**), Analyze 7.5 (**.hdr**), Matlab MAT file (**.mat**) or MRI file (**.mri**)
 
-### Save result as
+#### Save result as
+Save ROi as ROI (**.roi**) or Statistics (**.res**). If there is no ROI it will raise an error.
 
-### Export Image Data
+#### Export Image Data
+It generates image/s (**.jpg**, **.tiff**, **.png**, **.bmp** and **.eps**) of the currently opened 3D image.
 
-### Close file
+![Aedes export image](aedes_exportimage.png)
 
-### Exit Aedes
+#### Close file
+It will close the currently opened image.
 
+#### Exit Aedes
+It exists Aedes.
 
 ## Edit
 TODO
