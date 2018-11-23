@@ -1,5 +1,7 @@
 # Aedes Documentation (Under construction)
 
+Find the documentation in the following [link](docs/MAIN.md)
+
 [File](#file)
 [Edit](#edit)
 [View](#view)
