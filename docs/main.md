@@ -17,7 +17,7 @@ Toolbar
 
 
 ## File
-### New window
+#### New window
 It opens a new Aedes window.
 
 #### Open File
@@ -90,25 +90,31 @@ TODO
 * [Write difference image](#write-difference-image)
 
 #### Brain masking
-TODO
+It generates a brain mask by thresholding the currently opened brain.
+
+Usage: Open Aedes -> Open File -> Plugins -> Brain masking.
 
 #### Copy data to workspace
-TODO
+It copies the loaded DATA and ROIs to Matlab's workspace to work directly from the command line.
 
 #### Histograms
-TODO
+It shows the histogram of values of the opened file.
 
 #### Open in imtool
-TODO
+It will open the current slice in imtool, a Matlab environment to visualize and perform common image processing tasks.
+![Aedes imtool](aedes_imtool.png)
 
 #### Plot profile
-TODO
+It plots the intensities of the pixels along the lines drawn in the current slice.
+![Aedes plot profile](aedes_plotprofile.png)
 
 #### Save roi as mask
-TODO
+It saves the first selected ROI as a mask (NIfTI binary file). Note that it cannot save more than one ROI at the same time.
+
+Usage: Open Aedes -> Open File -> Draw a ROI or Load a ROI -> Select ROI we want to save -> Plugins -> Save roi as mask.
 
 #### Take snapshot
-TODO
+It takes a snapshot from Aede's workspace capturing the 3 views.
 
 ## Help
 TODO
