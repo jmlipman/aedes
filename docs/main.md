@@ -99,6 +99,7 @@ It copies the loaded DATA and ROIs to Matlab's workspace to work directly from t
 
 #### Histograms
 It shows the histogram of values of the opened file.
+
 ![Aedes histogram](aedes_histogram.png)
 ![Aedes histogram two](aedes_histogram2.png)
 
