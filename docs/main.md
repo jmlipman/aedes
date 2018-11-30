@@ -11,9 +11,35 @@ Menu bar
 8. [Help](#help)
 
 Toolbar
-1. TODO
-2. TODO
-3. TODO...
+![Aedes toolbar](aedes_toolbar.png)
+1. [Open a new data file](#open-file)
+2. [Open multiple single-slice data files](#open-multiple-files)
+3. Save
+4. Fit to Window Height
+5. Zoom In
+6. Zoom Out
+7. Show/Hide Crosshairs
+8. Show/Hide Grid
+9. Show/Hide Colorbar
+10. Show/Hide Info Text
+11. Edit Image Stack
+12. Rotate/Flip Custom
+13. View 3D
+14. View X direction
+15. View Y direction
+16. View Z direction
+17. Mouse: Normal
+18. Mouse: Pan image
+19. Mouse: Draw ROI
+20. Mouse: Erase ROI
+21. Mouse: Fill ROI
+22. Mouse: Move ROI in slice
+23. Mouse: Move ROI in volume
+24. View ROI statistics
+25. New ROI
+26. Copy ROI to slices/volumes
+27. Undo last ROI action
+
 
 
 ## File

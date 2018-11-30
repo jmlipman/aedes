@@ -11,6 +11,7 @@ Menu bar
 8. [Help](#help)
 
 Toolbar
+![Aedes toolbar](aedes_toolbar.png)
 1. TODO
 2. TODO
 3. TODO...
@@ -63,31 +64,31 @@ TODO
 
 ## Plugins
 * [fmri plugins](#fmri-plugins)
-  * [Correlation mapping](#correlation-mapping)
-  * [Fmri analysis](#fmri-analysis)
-  * [Motion estimate](#motion-estimate)
-  * [Network analysis](#network-analysis)
-  * [Old fmri analysis](#old-fmri-analysis)
-  * [Resting state fc](#resting-state-fc)
-  * [Roi averages](#roi-averages)
+  * [Correlation mapping (TODO)](#correlation-mapping)
+  * [Fmri analysis (TODO)](#fmri-analysis)
+  * [Motion estimate (TODO)](#motion-estimate)
+  * [Network analysis (TODO)](#network-analysis)
+  * [Old fmri analysis (TODO)](#old-fmri-analysis)
+  * [Resting state fc (TODO)](#resting-state-fc)
+  * [Roi averages (TODO)](#roi-averages)
 * [map plugins](#map-plugins)
-  * [T1 3 parameter fit](#t1-3-parameter-fit)
-  * [T1 inversion recovery](#t1-inversion-recovery)
-  * [T1 rho](#t1-rho)
-  * [T1 saturation recovery](#t1-saturation-recovery)
-  * [T2](#t2)
-  * [T2 rho](#t2-rho)
+  * [T1 3 parameter fit (TODO)](#t1-3-parameter-fit)
+  * [T1 inversion recovery (TODO)](#t1-inversion-recovery)
+  * [T1 rho (TODO)](#t1-rho)
+  * [T1 saturation recovery (TODO)](#t1-saturation-recovery)
+  * [T2 (TODO)](#t2)
+  * [T2 rho (TODO)](#t2-rho)
 * [Brain masking](#brain-masking)
-* [Calc asl cbf](#calc-asl-cbf)
+* [Calc asl cbf (TODO)](#calc-asl-cbf)
 * [Copy data to workspace](#copy-data-to-workspace)
-* [Fat analysis](#fat-analysis)
+* [Fat analysis (TODO)](#fat-analysis)
 * [Histograms](#histograms)
 * [Open in imtool](#open-in-imtool)
 * [Plot profile](#plot-profile)
 * [Save overlay as roi](#save-overlay-as-roi)
 * [Take snapshop](#take-snapshop)
-* [View kspace](#view-kspace)
-* [Write difference image](#write-difference-image)
+* [View kspace (TODO)](#view-kspace)
+* [Write difference image (TODO)](#write-difference-image)
 
 #### Brain masking
 It generates a brain mask by thresholding the currently opened brain.
@@ -99,7 +100,9 @@ It copies the loaded DATA and ROIs to Matlab's workspace to work directly from t
 
 #### Histograms
 It shows the histogram of values of the opened file.
+
 ![Aedes histogram](aedes_histogram.png)
+
 ![Aedes histogram two](aedes_histogram2.png)
 
 #### Open in imtool
