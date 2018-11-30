@@ -1,5 +1,7 @@
 # Aedes Full Documentation (Under construction)
 
+![Aedes view](aedes_view.png)
+
 **Menu bar**
 1. [File](#file)
 2. [Edit](#edit)
