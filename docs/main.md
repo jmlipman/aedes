@@ -2,6 +2,9 @@
 
 ![Aedes view](aedes_view.png)
 
+1. [Menu bar](docs/menu_bar.md)
+2. 
+
 **Menu bar**
 1. [File](#file)
 2. [Edit](#edit)
