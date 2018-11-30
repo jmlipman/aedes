@@ -11,6 +11,7 @@ Menu bar
 8. [Help](#help)
 
 Toolbar
+
 ![Aedes toolbar](aedes_toolbar.png)
 1. [Open a new data file](#open-file)
 2. [Open multiple single-slice data files](#open-multiple-files)
