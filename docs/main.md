@@ -29,17 +29,20 @@
 14. View X direction
 15. View Y direction
 16. View Z direction
-17. Mouse: Normal
-18. Mouse: Pan image
-19. Mouse: Draw ROI
-20. Mouse: Erase ROI
-21. Mouse: Fill ROI
-22. Mouse: Move ROI in slice
-23. Mouse: Move ROI in volume
-24. View ROI statistics
-25. New ROI
-26. Copy ROI to slices/volumes
-27. Undo last ROI action
+17. [Mouse: Normal](#mouse-normal)
+18. [Mouse: Pan image](#mouse-pan-image)
+19. [Mouse: Draw ROI](#mouse-draw-roi)
+20. [Mouse: Erase ROI](#mouse-erase-roi)
+21. [Mouse: Fill ROI](#mouse-fill-roi)
+22. [Mouse: Move ROI in slice](#mouse-move-roi-in-slice)
+23. [Mouse: Move ROI in volume](#mouse-move-roi-in-volume)
+24. [View ROI statistics](#view-roi-statistics)
+25. [New ROI](#new-roi)
+26. [Copy ROI to slices/volumes](#copy-roi-to-slices-volumes)
+27. [Undo last ROI action](#undo-last-ROI-action
+
+#### Mouse: Normal
+TODO
 
 
 
